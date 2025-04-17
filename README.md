@@ -1,4 +1,4 @@
-#  Feature-Based Spectrum Sensing in NOMA for Cognitive IoT Networks with Optimal ML Classifiers
+# Feature-Based Spectrum Sensing in NOMA for Cognitive IoT Networks using Machine Learning in DownLink Scenarios.
 
 ## This repository contains our Mini Project.
 
